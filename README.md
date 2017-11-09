@@ -4,11 +4,11 @@
 
 <br>
 
-**-Recipeers is a social media app for discovering and sharing recipes.** by [Amanda Freeman](https://github.com/mandafae),  [Dylan Thorwaldson](https://github.com/DTThor), and [Michael Quiroz](https://github.com/cocomjolk), [Rachel Cavin](https://github.com/Rmcavin) built in a week for Galvanize g63 cohort qtr 2 project.
+**-Recipeers is a social media app for discovering and sharing recipes.** by [Amanda Freeman](https://github.com/mandafae),  [Dylan Thorwaldson](https://github.com/DTThor), [Michael Quiroz](https://github.com/cocomjolk), and [Rachel Cavin](https://github.com/Rmcavin). It was built in a week for our Galvanize quarter 2 project.
 
-**-Our goal** is to create a platform for users to interact effortlessly to find, share and try new and interesting recipes with friends and followers. 
+**-Our goal** was to create a platform for users to find, share, and try new and interesting recipes with friends and followers. 
 
-Food is a common and popular topic on social media but existing options don't fcilitate easy recipe sharing.
+Food is a common and popular topic on social media but existing options don't facilitate easy recipe sharing.
 
 ## Technologies:
 
@@ -17,30 +17,31 @@ Server:
 * Express
 
 Middleware:
-* body-parser
+* body parser
 * method override
 * cookie session
 * cookie parser
 
 Database:
 * PostgreSQL
-* **[Knex](http://knexjs.org/)** - used as SQL query builder
+* Knex - used as SQL query builder
 
 Additional:
-* **[Heroku](http://www.heroku.com)** - used for deployment
-* **[Cloudinary](https://cloudinary.com/)** - for image uplaod and storage
-* Materialize
+* [Heroku](http://www.heroku.com) - used for deployment
+* [Cloudinary](https://cloudinary.com/) - for image upload and storage
+* [Materialize](http://materializecss.com/)
 
 <hr>
 
 ### Challenges:
 
 * Routes
+
 * Joins - Determining how to create complex joins using knex. Translating working SQL queries to knex.
 
 * Cloudinary - picture storage and display, upload widget
 
-* Git feature branch workflow**
+* Git feature branch workflow
 
 * Authorization and Authentication
 
@@ -48,7 +49,6 @@ Additional:
 
 * Consistent image sizing and styling
 
-* We wanted to be the next instagram for recipes!!
 <hr>
 
 <br>
@@ -92,7 +92,7 @@ Additional:
 <br>
 
 
-##  4. See your friends recipes
+##  4. See your friends' recipes
 
 <br>
 
