@@ -61,13 +61,13 @@ Additional:
 
  <br>
 
- ![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518616/createProfile_hakybt.png)
+ ![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518616/createProfile_hakybt.png)
  <br><br>
- ![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518592/createUsername2_l9mkzg.png)
+ ![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518592/createUsername2_l9mkzg.png)
  <br><br>
- ![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518582/filloutForm2_tc1xh9.png)
+ ![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518582/filloutForm2_tc1xh9.png)
  <br><br>
- ![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518574/profilePic_f4zdui.png)
+ ![cscreenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508518574/profilePic_f4zdui.png)
 
 <br>
 
@@ -75,9 +75,9 @@ Additional:
 
 <br>
 
-![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508519496/Snip20171020_2_uwxhgs.png)
+![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508519496/Snip20171020_2_uwxhgs.png)
 <br><br>
-![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508519499/Snip20171020_4_zcll6c.png)
+![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508519499/Snip20171020_4_zcll6c.png)
 
 
 <br>
@@ -86,8 +86,8 @@ Additional:
 
 <br>
 
-![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508521264/browse_n0ry3p.png)
-![create profile](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508522858/recipe1_aghyfq.png)
+![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508521264/browse_n0ry3p.png)
+![screenshot](http://res.cloudinary.com/dcc5vb7ot/image/upload/v1508522858/recipe1_aghyfq.png)
 
 <br>
 
